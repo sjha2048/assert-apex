@@ -147,12 +147,6 @@ expect(response.items[2], "items[2] should be an object").to.be.an('object');
 
 ---
 
-## **📚 Documentation**
-
-Refer to the [official documentation](https://github.com/yourusername/assert-apex#readme) for advanced usage and configuration examples.
-
----
-
 ## **🤝 Contributing**
 
 We welcome contributions! Check out the [contribution guidelines](https://github.com/yourusername/assert-apex/blob/main/CONTRIBUTING.md) for more details.
@@ -161,14 +155,12 @@ We welcome contributions! Check out the [contribution guidelines](https://github
 
 ## **📄 License**
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/assert-apex/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sjha2048/assert-apex/blob/main/LICENSE.txt) file for details.
 
 ---
 
 ## **💬 Support**
 
-For questions or issues, please open an [issue on GitHub](https://github.com/yourusername/assert-apex/issues).
+For questions or issues, please open an [issue on GitHub](https://github.com/sjha2048/assert-apex/issues).
 
 --- 
-
-With this README, your project should look much more professional and user-friendly. Don't forget to replace placeholder links like `yourusername` with your actual GitHub username or relevant URLs.
